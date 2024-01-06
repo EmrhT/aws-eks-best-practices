@@ -179,6 +179,7 @@ plugins:
           site_name: EKS 모범 사례 가이드
       reconfigure_material: true
       reconfigure_search: true
+  - print-site
 extra:
   analytics:
     provider: google
